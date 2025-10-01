@@ -86,6 +86,28 @@
           background-color: #11111b55;
         } 
       }
+      &#surveyFront {
+        background-image: url(../assets/odissei-e1YThDHmTA4-unsplash.jpg);
+        background-position: center center;
+        background-size: cover;
+        background-color: #11111bbe;
+        background-blend-mode: overlay;
+  
+        &:hover {
+          background-color: #11111b55;
+        } 
+      }
+      &#surveyBackend {
+        background-image: url(../assets/lukas-blazek-mcSDtbWXUZU-unsplash.jpg);
+        background-position: center center;
+        background-size: cover;
+        background-color: #11111bbe;
+        background-blend-mode: overlay;
+  
+        &:hover {
+          background-color: #11111b55;
+        } 
+      }
     }
   
     &__link {
