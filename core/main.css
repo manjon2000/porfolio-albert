@@ -526,6 +526,26 @@ body {
 .projects__card#loopstudios:hover {
   background-color: rgba(17, 17, 27, 0.3333333333);
 }
+.projects__card#surveyFront {
+  background-image: url(../assets/odissei-e1YThDHmTA4-unsplash.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-color: rgba(17, 17, 27, 0.7450980392);
+  background-blend-mode: overlay;
+}
+.projects__card#surveyFront:hover {
+  background-color: rgba(17, 17, 27, 0.3333333333);
+}
+.projects__card#surveyBackend {
+  background-image: url(../assets/lukas-blazek-mcSDtbWXUZU-unsplash.jpg);
+  background-position: center center;
+  background-size: cover;
+  background-color: rgba(17, 17, 27, 0.7450980392);
+  background-blend-mode: overlay;
+}
+.projects__card#surveyBackend:hover {
+  background-color: rgba(17, 17, 27, 0.3333333333);
+}
 .projects__link {
   margin: 0 auto;
   padding: 0.8rem 1rem;
